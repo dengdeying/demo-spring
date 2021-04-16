@@ -11,5 +11,6 @@
 
 
     <modules>
+        <module>demo-spring-import</module>
     </modules>
 </project>
